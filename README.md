@@ -1,6 +1,22 @@
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack applications, backend systems, and my AbhiOS operating system project.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, AI applications, backend systems, and interesting CSE projects.<br><br>🤝 I’m looking for help with<br>System design, advanced backend architecture, and low-level/OS development.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, System Design, Backend Development, AI, and Operating Systems.<br><br>💬 Ask me about<br>MERN Stack, Node.js, Java, DSA, backend development, and building projects.<br><br>⚡ Fun fact<br>I learn best by building things from scratch and breaking them until I understand how they work.
+🔭 **Currently working on**
+Full-stack & backend projects, AI.
+
+👯 **Looking to collaborate on**
+Open-source, AI, backend, and CSE projects.
+
+🤝 **Looking for help with**
+System design, backend architecture.
+
+🌱 **Currently learning**
+DSA, system design, backend development, AI & OS.
+
+💬 **Ask me about**
+Java, MERN, Node.js, DSA & backend development.
+
+⚡ **Fun fact**
+I learn by building from scratch and breaking things until I understand them.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirajdhiman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhirajdhiman5@gmail.com) 
